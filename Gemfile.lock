@@ -39,7 +39,7 @@ PLATFORMS
 
 DEPENDENCIES
   appraisal
-  capybara (= 3.32.2)
+  capybara
   pry
 
 BUNDLED WITH
